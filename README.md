@@ -1,2 +1,2 @@
-# project
+# Project
 Final Year Project Repo
